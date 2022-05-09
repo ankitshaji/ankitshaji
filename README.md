@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitshaji
-- University of Auckland
+- University of Auckland Graduate
 
 <!---
 ankitshaji/ankitshaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
